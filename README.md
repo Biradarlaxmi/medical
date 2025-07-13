@@ -25,3 +25,8 @@ A Streamlit app that predicts drug interaction risk levels (Low, Moderate, Serio
 pip install -r requirements.txt
 streamlit run app.py
 
+## link to access this project : https://medical-cqrsqwutj5kytvpwsvi3z7.streamlit.app/
+
+
+
+
